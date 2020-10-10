@@ -1,9 +1,9 @@
 from instapy_cli import client
 from textwrap import dedent
 
-username = "kodag__nilesh" #your username
+username = "" #your username
 
-password = "123456789@NK" #your password 
+password = "" #your password 
 
 image = "01.jpg"    #here you can put the image directory
 
